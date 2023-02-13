@@ -14,15 +14,15 @@ efficiency.</p>
 
 <h1> CITATION </h1>
 
-> @article{doi:10.1063/5.0136886,
-> author = {Delcey,Mickael  and Cheny,Yoann  and Kiesgen de Richter,Sébastien },
-> title = {Physics-informed neural networks for gravity currents reconstruction from limited data},
-> journal = {Physics of Fluids},
-> volume = {0},
-> number = {ja},
-> pages = {null},
-> year = {0},
-> doi = {10.1063/5.0136886},
+>> @article{doi:10.1063/5.0136886,
+>> author = {Delcey,Mickael  and Cheny,Yoann  and Kiesgen de Richter,Sébastien },
+>> title = {Physics-informed neural networks for gravity currents reconstruction from limited data},
+>> journal = {Physics of Fluids},
+>> volume = {0},
+>> number = {ja},
+>> pages = {null},
+>> year = {0},
+>> doi = {10.1063/5.0136886},
 
 URL = { 
         https://doi.org/10.1063/5.0136886
