@@ -14,7 +14,7 @@ efficiency.</p>
 
 ## CITATION 
 
-      @article{doi:10.1063/5.0136886,
+      @article{3DInferred,
          author = {Delcey,Mickael  and Cheny,Yoann  and Kiesgen de Richter,Sébastien },
          title = {Physics-informed neural networks for gravity currents reconstruction from limited data},
          journal = {Physics of Fluids},
