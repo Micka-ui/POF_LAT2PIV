@@ -1,6 +1,6 @@
 <h1> Physics-informed neural networks for gravity currents reconstruction from limited data </h1>
 
-The present work investigates the use of physics-informed neural networks (PINNs) \cite{Rassi}for the three-dimensional (3D)
+<p> The present work investigates the use of physics-informed neural networks (PINNs) \cite{Rassi}for the three-dimensional (3D)
 reconstruction of unsteady gravity currents from limited data. In the PINN context, the flow fields are reconstructed
 by training a neural network whose objective function penalizes the mismatch between the network predictions and the
 observed data and embeds the underlying equations using automatic differentiation. This study relies on a high-fidelity
@@ -10,9 +10,9 @@ techniques for density and velocity. Notably, spatially averaged density measure
 (LAT) are employed for the training procedure. We propose an experimental setup that combines density measurement
 by LAT and two independent planar velocity measurements by particle image velocimetry (PIV). The so-called LAT-
 2PIV setup gives the most promising results for flow reconstruction by PINNs, with respect to its accuracy and cost
-efficiency.
+efficiency.<p>
 
-#CITATION
+<h1> CITATION </h1>
 
 @article{doi:10.1063/5.0136886,
 author = {Delcey,Mickael  and Cheny,Yoann  and Kiesgen de Richter,Sébastien },
